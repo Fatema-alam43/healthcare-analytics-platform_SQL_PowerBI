@@ -1,0 +1,14 @@
+# Data files (not committed — see data/README.md)
+*.csv
+*.xlsx
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Power BI temp files
+*.pbix.lock
+
+# Python/Colab
+.ipynb_checkpoints/
+__pycache__/
